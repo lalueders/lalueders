@@ -1,6 +1,6 @@
-** Lasse ** | based in Hamburg, Germany 👋
+**Lasse** | based in Hamburg, Germany 👋
 
-Welcome to my [GitHub](https://github.com/lalueders)
+Welcome to my [GitHub](https://github.com/lalueders)!
 <!--
 **lalueders/lalueders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
