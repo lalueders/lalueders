@@ -1,4 +1,6 @@
-**Lasse** | based in Hamburg, Germany
+#### **Lasse** | based in Hamburg, Germany
+
+Web Dev Student
 
 Welcome to my [GitHub](https://github.com/lalueders)! 👋
 <!--
