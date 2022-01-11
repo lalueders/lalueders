@@ -1,6 +1,6 @@
-**Lasse** | based in Hamburg, Germany
+## Lasse | based in Hamburg, Germany
 
-Web Dev Student @ neuefische :tropical_fish:
+**Web Dev Student @ neuefische** :tropical_fish:
 
 Welcome to my [GitHub](https://github.com/lalueders)! 👋
 <!--
