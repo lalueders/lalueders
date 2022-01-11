@@ -1,4 +1,4 @@
-## Lasse | based in Hamburg, Germany
+## Lasse | Hamburg, Germany
 
 **Web Dev Student @ neuefische** :tropical_fish:
 
