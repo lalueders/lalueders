@@ -1,10 +1,11 @@
 ## Lasse | Hamburg, Germany
 
-
-
-**Web Dev Student @ neuefische** :tropical_fish:
+**Web Dev Student @ neuefische** 🐠
 
 Welcome to my [GitHub](https://github.com/lalueders)! 👋
+
+I´m currently working on improving my web development skills!
+
 <!--
 **lalueders/lalueders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
